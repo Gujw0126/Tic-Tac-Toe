@@ -1,0 +1,13 @@
+D:\myc\tac\bin\Debug\tac.exe.config
+D:\myc\tac\bin\Debug\tac.exe
+D:\myc\tac\bin\Debug\tac.pdb
+D:\myc\tac\obj\Debug\tac.csprojAssemblyReference.cache
+D:\myc\tac\obj\Debug\tac.tic_tac_toe.resources
+D:\myc\tac\obj\Debug\tac.Form2.resources
+D:\myc\tac\obj\Debug\tac.Properties.Resources.resources
+D:\myc\tac\obj\Debug\tac.csproj.GenerateResource.cache
+D:\myc\tac\obj\Debug\tac.csproj.CoreCompileInputs.cache
+D:\myc\tac\obj\Debug\tac.exe
+D:\myc\tac\obj\Debug\tac.pdb
+D:\myc\tac\obj\Debug\tac.Form3.resources
+D:\myc\tac\obj\Debug\tac.Form4.resources
